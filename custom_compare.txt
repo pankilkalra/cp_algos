@@ -1,0 +1,3 @@
+bool comp(const abc &a, const abc &b){
+    return a.val < b.val;
+}
