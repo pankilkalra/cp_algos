@@ -1,6 +1,6 @@
 # cp_algos
-A repo containing most frequently used repositories in competitive programming
-Currently contains the following (Click on a algo to reach the scropt for the same):
+A repo containing most frequently used repositories in a competitive programming
+Currently contains the following info (Click on a algo to reach the scropt for the same):
 
 * [x] [Find all factors](all_factors.cpp)
 
