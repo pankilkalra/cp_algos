@@ -1,5 +1,5 @@
 # cp_algos
-A repo containing frequently used repositories in competitive programming
+A repo containing most frequently used repositories in competitive programming
 Currently contains the following (Click on a algo to reach the scropt for the same):
 
 * [x] [Find all factors](all_factors.cpp)
